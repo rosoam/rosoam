@@ -5,5 +5,5 @@
 I'm a full stack web developer with around 6 years of experience in web development.
 
 - 🔭 I’m currently working on a personnal event oriented project
-- 🌱 I’m currently learning / improving my PHP (Laravel) skills
+- 🌱 I’m currently training, learning, improving my skills in react, Nextjs
 - 📫 How to reach me: rso_dev (twitter)

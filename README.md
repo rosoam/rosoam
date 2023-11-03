@@ -2,8 +2,8 @@
 
 <!-- # ![Rosoam's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosoam&show_icons=true&theme=transparent) -->
 
-I'm a full stack web developer with around 6 years of experience in web development.
+I'm a full stack web developer and also a music producer.
 
-- 🔭 I’m currently working on a personnal event oriented project
-- 🌱 I’m currently training, learning, improving my skills in react, Nextjs
-- 📫 How to reach me: rso_dev (twitter)
+- 🔭 Tired of what is mainstream in music industry when talking about web apps or mobile apps. 
+- 🌱 I'm currently working on a project turned to fight against what is the normality in this industry.
+- 📫 How to reach me: rso.dev@gmail.com

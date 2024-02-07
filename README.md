@@ -4,6 +4,6 @@
 
 I'm a full stack web developer and also a music producer.
 
-- 🔭 Tired of what is mainstream in music industry when talking about web apps or mobile apps. 
-- 🌱 I'm currently working on a project turned to fight against what is the normality in this industry.
-- 📫 How to reach me: rso.dev@gmail.com
+- 🔭 Tired of what's common in the music industry when it comes to web or mobile apps.
+- 🌱 I'm currently working on a project focused on the fight against what is normality in this industry.
+- 📫 How to reach me: dev@initer.io

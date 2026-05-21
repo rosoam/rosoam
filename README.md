@@ -1,6 +1,6 @@
 # Romario Sobreira
 
-Full-stack founder building **[Initer](https://initer.app)** — social infrastructure for real-life experiences.
+Full-stack founder building **[Initer](https://initer.io)** — social infrastructure for real-life experiences.
 
 Discovery × social × ticketing. One platform for organizers and their communities.  
 From idea to production, end-to-end.
@@ -41,8 +41,7 @@ From idea to production, end-to-end.
 ## 🌐 Find me
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/rosoam)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TODO)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TODO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/romario-sobreira)
 
 ---
 

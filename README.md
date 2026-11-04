@@ -1,48 +1,35 @@
-# Romario Sobreira
+<p align="center">
+  <img src="./banner.svg" alt="Romario Sobreira — product engineering and security" width="100%" />
+</p>
 
-Full-stack founder building **[Initer](https://initer.io)** — social infrastructure for real-life experiences.
+**Founder [@Initer](https://initer.io) · product engineering & security · Lausanne**
 
-Discovery × social × ticketing. One platform for organizers and their communities.  
-From idea to production, end-to-end.
+I build products and systems where real-world communities, data and security meet —
+from the schema and the API to the interface and the deploy.
 
-- 🏗️ B2B2C flywheel — local density first, activating insiders
-- 🤖 Agentic workflows, AI pipelines integrated into product dev
-- 🌍 Based in Switzerland 🇨🇭
+## Selected work
 
----
+| Project | What it is |
+|---|---|
+| **[Initer](https://initer.io)** | Social infrastructure for real-life experiences — discovery, social, ticketing. One platform for organizers and their communities. |
+| **Arsenal** | Private R&D lab: OSINT, red team, detection measurement, MCP gateway, agent console. |
+| **[Peekly](https://github.com/rosoam/peekly)** | Hold X to inspect any React/Vue/Preact/Alpine component; live network inspector with N+1 detection and TypeScript interface generation. |
+| **[Droplink](https://github.com/rosoam/droplink)** | AirDrop for everyone — P2P LAN file sharing, no account, no server. |
 
-## 📊 GitHub Stats
+## How I work
 
-![](https://streak-stats.demolab.com?user=rosoam&theme=github-dark&border_radius=0&hide_border=true)
+- **Product first** — ship the narrow thing that proves the thesis, then widen it.
+- **Security by construction** — threat models, least privilege, evidence, not claims.
+- **Agentic workflows** — agents where they remove real toil, with rails and measurable output.
+- **End-to-end** — product, architecture, code, operations. No hand-off.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rosoam&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## Stack
 
----
+**Product** — TypeScript, Next.js, React, Flutter  
+**Systems** — Rust, Python, FastAPI, Fastify  
+**Data** — PostgreSQL, Supabase, Redis  
+**Platform** — Docker, Vercel, Cloudflare, Stripe, WorkOS
 
-## 💻 Stack
+## Find me
 
-### Languages
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-
-### Frontend & Mobile
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-
-### Backend
-![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Data & Storage
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### Infrastructure
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-%23646EDE.svg?style=for-the-badge&logo=Stripe&logoColor=white)
-
----
-
-## 🌐 Find me
-
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/rosoam)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/romario-sobreira)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=rosoam&icon=2&color=1)](https://visitcount.itsvg.in)
+[initer.io/rso](https://initer.io/rso) · [LinkedIn](https://www.linkedin.com/in/romario-sobreira/) · [GitHub](https://github.com/rosoam)

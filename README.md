@@ -2,9 +2,11 @@
 
 Founder of [Initer](https://initer.io).
 
-I write code to understand things deeply. I pick a domain, dig until I see what is missing, then build the product that should exist — from the data model and the API to the interface and the deploy.
+I write code to understand systems. I take a domain — local networking, ticketing, developer tooling, security — and go deep enough to see where existing products stop, then build the missing piece from the protocol up to the interface.
 
-I care about products that are genuinely useful, secure by construction, and well made. Security is never a layer added at the end; quality is what separates a demo from something people keep using.
+I work mostly in Rust, TypeScript and Python, with PostgreSQL underneath. I care about properties that can be verified: explicit state machines, bounded queues, threat models, tests that reproduce the failure, deploys that can be rolled back.
+
+My bias is toward local-first, peer-to-peer software: fewer servers, explicit trust boundaries, and data that stays where it belongs.
 
 ## Selected work
 

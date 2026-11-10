@@ -10,10 +10,10 @@ Most of the stack is TypeScript, Rust and Python, with PostgreSQL underneath. Th
 
 ## Selected work
 
-- **[Jais](https://www.jais.ch)** — inbox handling, project memory, follow-ups and replies; it chews through my redundant work.
 - **[Initer](https://initer.io)** — social infrastructure for real-life experiences: discovery, social, ticketing.
 - **[Peekly](https://github.com/rosoam/peekly)** — inspect React/Vue components and network calls live.
 - **[Droplink](https://github.com/rosoam/droplink)** — encrypted P2P file transfer, desktop and iOS.
+- **Jais** — private business agent: inbox handling, project memory, follow-ups and replies; it chews through my redundant work.
 - **Arsenal** — private offensive-security lab: OSINT collection, red-team tooling, detection measurement, MCP gateway and agent console.
 
 ## Stack

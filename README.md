@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./banner.svg" alt="Romario Sobreira — product engineering and security" width="100%" />
-</p>
+# Romario Sobreira
 
 Founder of [Initer](https://initer.io). I build products end to end — product, architecture, code, operations — with security as a design constraint.
 

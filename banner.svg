@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
-  <title id="title">Romario Sobreira — product engineering and security</title>
-  <desc id="desc">Founder at Initer. Product engineering and security, Lausanne, Switzerland.</desc>
-  <rect width="1200" height="220" fill="#050607"/>
-  <rect x="64" y="58" width="36" height="2" fill="#c8613a"/>
-  <text x="64" y="122" fill="#e6e2da" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="46" font-weight="600"><tspan fill="#c8613a">&gt; </tspan>romario sobreira</text>
-  <text x="64" y="162" fill="#c8613a" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="2">product engineering · security</text>
-  <text x="64" y="192" fill="#6f6a62" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="13">lausanne, switzerland · initer.io</text>
-</svg>

@@ -11,7 +11,7 @@ I care about products that are genuinely useful, secure by construction, and wel
 - **[Initer](https://initer.io)** — social infrastructure for real-life experiences: discovery, social, ticketing.
 - **[Peekly](https://github.com/rosoam/peekly)** — inspect React/Vue components and network calls live.
 - **[Droplink](https://github.com/rosoam/droplink)** — encrypted P2P file transfer, desktop and iOS.
-- **Arsenal** — private R&D lab: OSINT, red team, detection measurement, MCP tooling.
+- **Arsenal** — private offensive-security lab: OSINT collection, red-team tooling, detection measurement, MCP gateway and agent console.
 
 ## Stack
 
